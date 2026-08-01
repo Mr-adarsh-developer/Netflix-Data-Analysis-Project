@@ -166,13 +166,6 @@ If you found this project helpful, please ⭐ Star this repository and feel free
 
 ---
 
-👨‍💻 Author
-
-Your Name
-🔗 GitHub: https://github.com/your-username
-
----
-
 🏷️ Tags
 
 "Python" "Pandas" "NumPy" "Matplotlib" "Seaborn" "EDA" "Netflix" "Movie-Analysis" "Data-Visualization" "Jupyter-Notebook"
