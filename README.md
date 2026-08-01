@@ -1,5 +1,4 @@
-
-#🎬 Netflix Data Analysis Project
+<h1>🎬 Netflix Data Analysis Project </h1>h1>
 
 A complete Netflix Movies & TV Shows Data Analysis project using Python, Pandas, Matplotlib, and Seaborn. This project focuses on data cleaning, exploratory data analysis (EDA), visualization, and insight generation from a movie dataset.
 
